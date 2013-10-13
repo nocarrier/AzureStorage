@@ -1,1 +1,0 @@
-Hellol, World!@ Azure Storage!@!
