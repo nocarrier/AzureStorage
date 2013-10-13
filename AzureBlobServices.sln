@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureManager", "AzureManager\AzureManager.csproj", "{867ED13B-30CA-4167-A584-F62522504849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureScheduler", "AzureScheduler\AzureScheduler.csproj", "{CA49F5BB-122A-4101-88D6-FA7D90EFA562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DD.SolCat.Common", "DD.SolCat.Common\DD.SolCat.Common.csproj", "{3B6D1A6E-96A9-4EBA-9699-642001CFA198}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ddtfs:8080/tfs/vir
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AzureManager\\AzureManager.csproj
+		SccProjectName1 = AzureManager
+		SccLocalPath1 = AzureManager
+		SccProjectUniqueName2 = AzureScheduler\\AzureScheduler.csproj
+		SccProjectName2 = AzureScheduler
+		SccLocalPath2 = AzureScheduler
+		SccProjectUniqueName3 = DD.SolCat.Common\\DD.SolCat.Common.csproj
+		SccProjectName3 = DD.SolCat.Common
+		SccLocalPath3 = DD.SolCat.Common
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867ED13B-30CA-4167-A584-F62522504849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867ED13B-30CA-4167-A584-F62522504849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867ED13B-30CA-4167-A584-F62522504849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867ED13B-30CA-4167-A584-F62522504849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA49F5BB-122A-4101-88D6-FA7D90EFA562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA49F5BB-122A-4101-88D6-FA7D90EFA562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA49F5BB-122A-4101-88D6-FA7D90EFA562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA49F5BB-122A-4101-88D6-FA7D90EFA562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6D1A6E-96A9-4EBA-9699-642001CFA198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6D1A6E-96A9-4EBA-9699-642001CFA198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6D1A6E-96A9-4EBA-9699-642001CFA198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6D1A6E-96A9-4EBA-9699-642001CFA198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
